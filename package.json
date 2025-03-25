@@ -29,7 +29,7 @@
 		"prettier": "^3.2.5",
 		"prettier-config-a11y": "^1.1.2",
 		"typescript": "^5.2.2",
-		"vite": "^5.2.9"
+		"vite": "^5.4.15"
 	},
 	"prettier": "prettier-config-a11y"
 }
